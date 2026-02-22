@@ -1,6 +1,6 @@
 // Mets tes liens ici
 const tools = [
-    { name: "ACL Visualizer", url: "./ACL-Visualizer/index.html", nameGit: "ACL-Visualizer", urlGit: "https://github.com" },
+    { name: "ACL Visualizer", url: "https://discartgauthier.github.io/ACL-Visualizer/", nameGit: "ACL-Visualizer", urlGit: "https://github.com/DiscartGauthier/ACL-Visualizer" },
     { name: "Mask Calculator", url: "https://ton-site.com/mask-calculator", nameGit: "Mask-Calculator", urlGit: "https://github.com" },
 ];
 
